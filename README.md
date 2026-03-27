@@ -29,13 +29,3 @@ Para detalles completos sobre mi trayectoria, experiencia formal y certificacion
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil-aqui)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nbaronariera@gmail.com)
-
----
-<details>
-<summary>📊 Actividad Reciente en GitHub</summary>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbaronariera&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de nbaronariera" />
-</p>
-</details>
