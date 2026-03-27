@@ -18,8 +18,9 @@ Trabajo principalmente con lenguajes fuertemente tipados y orientados a sistemas
 Mis proyectos fijados (justo debajo de este README) reflejan mi trabajo práctico. Principalmente encontrarás:
 
 * 📻 **RadioApp (Java):** Un proyecto antiguo que simula una radio por UDP, pero importante en mi trayectoria. Lidiar con las limitaciones y la arquitectura de este proyecto en Java fue el catalizador exacto que me motivó a dar el salto a **Rust** para buscar un mejor control de memoria y concurrencia.
+* 🕹️ **J Text Engine (Java):** Un motor de juego basado íntegramente en texto. Desarrollar la arquitectura base y el *game loop* desde cero expuso los cuellos de botella del control de memoria en Java, convirtiéndose en el argumento técnico definitivo para mi transición hacia **Rust** en la programación de sistemas.
 * 🚨 **SolidarityHub, Gestión de Emergencias (Java / UPV):** Proyecto académico multidisciplinario. Demuestra mi capacidad para trabajar en equipo, aplicar ingeniería de software estructurada y modelar la lógica de dominios complejos.
-* 🎵 **DnD Group Music:** Una herramienta pragmática de automatización. Parsea archivos Markdown para descargar música y generar listas de reproducción para juegos de rol con amigos.
+* 🎵 **DnD Group Music: (Rust)** Una herramienta pragmática de automatización. Parsea archivos Markdown para descargar música y generar listas de reproducción para juegos de rol con amigos.
 
 Si quieres discutir sobre arquitectura, vulnerabilidades o código, siéntete libre de explorar el código fuente y abrir una *issue*.
 
