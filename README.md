@@ -1,21 +1,41 @@
-# 💫 About Me:
-Programmer studying at the UPV (Universidad Politécnica de Valencia). I know how to use Java, Python and a few other things.<br><br>Fencer in my free time, when I'm not programming or playing videogames or TTRPGs.
+# 👋 Hola, soy Nicolás
 
+**Software Developer | Security Focus | Systems Programming**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Luubstar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Luubstar&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luubstar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Soy estudiante en la Universidad Politécnica de Valencia (UPV) con un enfoque directo en ciberseguridad y desarrollo de software robusto. Me interesa la intersección entre el rendimiento, la arquitectura de sistemas y el código seguro por diseño, razón por la cual priorizo el uso de **Rust**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Luubstar&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+### 💻 Stack Principal
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Trabajo principalmente con lenguajes fuertemente tipados y orientados a sistemas o backend:
+
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🔍 Qué encontrarás en mis repositorios
+
+Mis proyectos fijados (justo debajo de este README) reflejan mi trabajo práctico. Principalmente encontrarás:
+
+* 📻 **RadioApp (Java):** Un proyecto antiguo que simula una radio por UDP, pero importante en mi trayectoria. Lidiar con las limitaciones y la arquitectura de este proyecto en Java fue el catalizador exacto que me motivó a dar el salto a **Rust** para buscar un mejor control de memoria y concurrencia.
+* 🚨 **SolidarityHub, Gestión de Emergencias (Java / UPV):** Proyecto académico multidisciplinario. Demuestra mi capacidad para trabajar en equipo, aplicar ingeniería de software estructurada y modelar la lógica de dominios complejos.
+* 🎵 **DnD Group Music:** Una herramienta pragmática de automatización. Parsea archivos Markdown para descargar música y generar listas de reproducción para juegos de rol con amigos.
+
+Si quieres discutir sobre arquitectura, vulnerabilidades o código, siéntete libre de explorar el código fuente y abrir una *issue*.
+
+### 📬 Conecta conmigo
+
+Para detalles completos sobre mi trayectoria, experiencia formal y certificaciones, puedes encontrarme en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil-aqui)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nbaronariera@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Luubstar&icon=0&color=0)](https://visitcount.itsvg.in)
+<details>
+<summary>📊 Actividad Reciente en GitHub</summary>
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nbaronariera&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de nbaronariera" />
+</p>
+</details>
